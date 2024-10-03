@@ -15,6 +15,7 @@ export default function ButtonPressCounter() {
       <h1 className="text-4xl font-bold mb-8 text-primary">Add 1</h1>
       <div className="text-6xl font-bold mb-8 text-primary">{count}</div>
       <Button 
+        style={{ position: 'absolute', left: Math.random() * window.innerWidth, top: Math.random() * window.innerHeight }}
         onClick={incrementCount}
         className="px-6 py-3 text-lg"
       >
