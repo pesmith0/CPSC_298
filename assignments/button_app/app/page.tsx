@@ -7,7 +7,7 @@ export default function ButtonPressCounter() {
   const [count, setCount] = useState(0)
 
   const incrementCount = () => {
-    setCount(prevCount => prevCount + 1)
+    setCount(prevCount => prevCount + 10)
   }
 
   return (
