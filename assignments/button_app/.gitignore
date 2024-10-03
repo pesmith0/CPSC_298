@@ -1,0 +1,5 @@
+# generated files:
+next-env.d.ts
+/node_modules
+.next/
+next-env.d.ts
