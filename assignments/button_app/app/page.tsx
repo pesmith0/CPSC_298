@@ -12,7 +12,7 @@ export default function ButtonPressCounter() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-background">
-      <h1 className="text-4xl font-bold mb-8 text-primary">Button Press Counter</h1>
+      <h1 className="text-4xl font-bold mb-8 text-primary">Add 1</h1>
       <div className="text-6xl font-bold mb-8 text-primary">{count}</div>
       <Button 
         onClick={incrementCount}
