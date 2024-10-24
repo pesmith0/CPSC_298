@@ -1,2 +1,0 @@
-dog_type = Golden Retriever
-dog_count = 500
