@@ -1,0 +1,2 @@
+dog_type = German Shepard
+dog_count = 5
