@@ -1,2 +1,2 @@
-dog_type = German Shepard
-dog_count = 5
+dog_type = Golden Retriever
+dog_count = 500
